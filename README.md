@@ -1,11 +1,11 @@
 # Customer Purchase Behavior Analysis
 
 ## Overview
-This project analyzes customer purchase behavior using a dataset containing gender, city category, marital status, age, and purchase amounts. The analysis includes:
+This project analyzes customer purchase behavior using a dataset containing gender, city category, marital status, age, and purchase amounts. The analysis includes
 
 - Descriptive statistics and visualization
 - Linear regression modeling
-- Gender-based purchase behavior analysis
+- Gender-based purchase behavior analysis 
 
 ## Files
 - `jeandedieu_ngirinshuti_SR1.pdf`: Full report of the analysis
