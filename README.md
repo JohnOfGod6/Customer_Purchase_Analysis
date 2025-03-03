@@ -1,17 +1,26 @@
 # Customer Purchase Behavior Analysis
 
-## Overview
-This project analyzes customer purchase behavior using a dataset containing gender, city category, marital status, age, and purchase amounts. The analysis includes
+## Project Overview
 
-- Descriptive statistics and visualization
-- Linear regression modeling
-- Gender-based purchase behavior analysis 
+This project explores customer purchase behavior using data that includes gender, city category, marital status, age, and purchase amount. We aim to understand key trends, the relationship between age and spending, and how gender affects purchasing habits.
 
-## Files
-- `jeandedieu_ngirinshuti_SR1.pdf`: Full report of the analysis
-- `jeandedieu_ngirinshuti_SR1.R`: R script for data analysis and visualization
+## Analysis Steps
 
-## How to Run the Code
-1. Install necessary packages in R:
-   ```r
-   install.packages(c("ggplot2", "dplyr", "readr", "gridExtra"))
+*   **Descriptive Statistics & Visualization:** We summarized and visualized the data to understand basic patterns and distributions.
+*   **Linear Regression Modeling:** We used linear regression to see how age influences purchase amounts.
+*   **Gender-Based Purchase Analysis:** We investigated whether there are differences in purchase behavior between men and women.
+
+## Files Included
+
+*   **`jeandedieu_ngirinshuti_SR1.pdf`:** This file contains the complete report with all findings, charts, and tables.
+*   **`jeandedieu_ngirinshuti_SR1.R`:** This is the R script used for data analysis, modeling, and creating the visualizations in the report.
+
+## How to Run the Analysis
+
+1.  **Install Required Packages:** Open R and run the following code to install the necessary packages
+
+    ```r
+    install.packages(c("ggplot2", "dplyr", "readr", "gridExtra"))
+    ```
+
+2.  **Run the R Script:** Open the `jeandedieu_ngirinshuti_SR1.R` script in RStudio and run the code. This will reproduce the analysis and generate the same results as in the report.
